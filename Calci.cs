@@ -11,5 +11,9 @@ namespace Calci
         public int Addition(int a,int b) {
             return Add.add(1,2);
         }
+        public int Multiplication(int a,int b)
+        {
+            return Multiplication(3, 9);
+        }
     }
 }
