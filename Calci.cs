@@ -14,6 +14,9 @@ namespace Calci
         public int Multiplication(int a,int b)
         {
             return Multiplication(3, 9);
+}
+        public int Subtraction(int a,int b) {
+            return Sub.sub(a,b);
         }
     }
 }
