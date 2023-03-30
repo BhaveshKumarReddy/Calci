@@ -8,9 +8,9 @@ namespace Calci
 {
     internal class Multiplication
     {
-        public int multiply(int a, int b)
+        public int multiply(int first, int second)
         {
-            return a * b;
+            return first * second;
         }
         public float multiply(float a, float b)
         {
