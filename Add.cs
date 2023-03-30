@@ -8,14 +8,14 @@ namespace Calci
 {
     class Add
     {
-        public static int add(int a,int b)
+        public static int add(int first,int second)
         {
-            return a + b;
+            return first + second;
         }
 
-        public static float add(float a,float b)
+        public static float add(float first,float second)
         {
-            return a * b;
+            return first * second;
         }
     }
 }
