@@ -8,9 +8,9 @@ namespace Calci
 {
     internal class Sub
     {
-        public static int sub(int a, int b)
+        public static int sub(int first, int second)
         {
-            return a - b;
+            return first - second;
         }
         public static float sub(float a, float b)
         {
