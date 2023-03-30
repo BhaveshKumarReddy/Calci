@@ -10,7 +10,7 @@ namespace Calci
     {
         public static int sub(int first, int second)
         {
-            return a - b;
+            return first - second;
         }
         public static float sub(float a, float b)
         {
